@@ -1,11 +1,11 @@
 ### Hola, Soy Mariano Castellano 👋
 
 ## Fullstack Developer en Java, Kotlin y Flutter!
-- 🔭 Actualmente trabajo en Uala como desarrollador backend!
-- 🌱 Constantemente estoy aprendiendo nuevas tecnologias 🤓
+- 🔭 Co-Founder at [MTC](https://mtc-flutter.com)
+- 🌱 Constantemente aprendiendo nuevas tecnologias 🤓
 - 👯 Me gusta emprender proyectos propios 💪
 - 🎓 Escribo un [blog técnico](https://medium.com/@castellano.mariano)!
-- ✈️ Me encanta viajar y vuelvo mis experiencias en mi [blog de viajes](http://miniaventuras.com/)!
+- ✈️ Me encanta viajar y vuelco mis experiencias en mi [blog de viajes](http://miniaventuras.com/)!
 
 ### Encuentrenme en:
 
